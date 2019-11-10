@@ -1,0 +1,8 @@
+camera|c3|1233
+laptop|electronics|10000
+ camera|c3|567564
+chocolate|food|35
+creams|cosmetics|200
+headphones|mobileaccessories|200
+Shampo|haircare|200
+boots|shoes |300
